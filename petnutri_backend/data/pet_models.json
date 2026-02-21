@@ -1,0 +1,33 @@
+{
+  "dog": {
+    "adult": {
+      "protein_percent": 25,
+      "fat_percent": 15,
+      "activity_multipliers": {
+        "low": 1.2,
+        "moderate": 1.5,
+        "high": 1.8
+      }
+    },
+    "puppy": {
+      "protein_percent": 28,
+      "fat_percent": 18,
+      "activity_multipliers": {
+        "low": 1.4,
+        "moderate": 1.6,
+        "high": 1.9
+      }
+    }
+  },
+  "cat": {
+    "adult": {
+      "protein_percent": 35,
+      "fat_percent": 20,
+      "activity_multipliers": {
+        "low": 1.2,
+        "moderate": 1.4,
+        "high": 1.6
+      }
+    }
+  }
+}

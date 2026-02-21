@@ -1,0 +1,37 @@
+[
+  {"name":"chicken","calories":165,"protein":31,"fat":3.5,"carbs":0,"fiber":0,"type":"nonveg","category":"protein","price_per_kg":280},
+  {"name":"chicken_liver","calories":170,"protein":25,"fat":5,"carbs":1,"fiber":0,"type":"nonveg","category":"protein","price_per_kg":240},
+  {"name":"mutton","calories":250,"protein":26,"fat":17,"carbs":0,"fiber":0,"type":"nonveg","category":"protein","price_per_kg":650},
+  {"name":"fish_rohu_katla","calories":140,"protein":20,"fat":7,"carbs":0,"fiber":0,"type":"nonveg","category":"protein","price_per_kg":300},
+  {"name":"fish_seer","calories":170,"protein":22,"fat":9,"carbs":0,"fiber":0,"type":"nonveg","category":"protein","price_per_kg":700},
+  {"name":"egg","calories":155,"protein":13,"fat":11,"carbs":1,"fiber":0,"type":"nonveg","category":"protein","price_per_kg":220},
+  {"name":"paneer","calories":260,"protein":18,"fat":20,"carbs":3,"fiber":0,"type":"veg","category":"protein","price_per_kg":350},
+  {"name":"curd","calories":60,"protein":3.5,"fat":3.5,"carbs":4.5,"fiber":0,"type":"veg","category":"protein","price_per_kg":80},
+  {"name":"boiled_chana","calories":160,"protein":9,"fat":2.5,"carbs":27,"fiber":8,"type":"veg","category":"protein","price_per_kg":120},
+
+  {"name":"white_rice","calories":130,"protein":2.5,"fat":0.3,"carbs":28,"fiber":0.4,"type":"veg","category":"carb","price_per_kg":60},
+  {"name":"brown_rice","calories":110,"protein":2.6,"fat":0.9,"carbs":23,"fiber":1.8,"type":"veg","category":"carb","price_per_kg":90},
+  {"name":"roti","calories":100,"protein":3,"fat":0.5,"carbs":18,"fiber":2.5,"type":"veg","category":"carb","price_per_kg":50},
+  {"name":"oats","calories":380,"protein":13,"fat":7,"carbs":66,"fiber":10,"type":"veg","category":"carb","price_per_kg":160},
+  {"name":"dalia","calories":90,"protein":3.5,"fat":0.5,"carbs":18,"fiber":3,"type":"veg","category":"carb","price_per_kg":70},
+  {"name":"sweet_potato","calories":86,"protein":1.6,"fat":0.1,"carbs":20,"fiber":3,"type":"veg","category":"carb","price_per_kg":40},
+
+  {"name":"carrot","calories":41,"protein":0.9,"fat":0.2,"carbs":10,"fiber":2.8,"type":"veg","category":"vegetable","price_per_kg":30},
+  {"name":"beans","calories":35,"protein":2,"fat":0.2,"carbs":7,"fiber":3,"type":"veg","category":"vegetable","price_per_kg":60},
+  {"name":"pumpkin","calories":26,"protein":1,"fat":0.1,"carbs":7,"fiber":1,"type":"veg","category":"vegetable","price_per_kg":25},
+  {"name":"bottle_gourd","calories":15,"protein":0.6,"fat":0.1,"carbs":3,"fiber":0.5,"type":"veg","category":"vegetable","price_per_kg":25},
+  {"name":"ridge_gourd","calories":20,"protein":0.5,"fat":0.1,"carbs":4,"fiber":1,"type":"veg","category":"vegetable","price_per_kg":40},
+  {"name":"spinach","calories":23,"protein":2.9,"fat":0.4,"carbs":3.6,"fiber":2.2,"type":"veg","category":"vegetable","price_per_kg":25},
+  {"name":"beetroot","calories":43,"protein":1.6,"fat":0.2,"carbs":10,"fiber":2.8,"type":"veg","category":"vegetable","price_per_kg":40},
+  {"name":"cabbage","calories":25,"protein":1.3,"fat":0.1,"carbs":6,"fiber":2.5,"type":"veg","category":"vegetable","price_per_kg":20},
+  {"name":"cauliflower","calories":25,"protein":1.9,"fat":0.3,"carbs":5,"fiber":2,"type":"veg","category":"vegetable","price_per_kg":35},
+  {"name":"capsicum","calories":31,"protein":1,"fat":0.3,"carbs":6,"fiber":2,"type":"veg","category":"vegetable","price_per_kg":80},
+  {"name":"cucumber","calories":16,"protein":0.7,"fat":0.1,"carbs":4,"fiber":0.5,"type":"veg","category":"vegetable","price_per_kg":25},
+  {"name":"tomato","calories":18,"protein":0.9,"fat":0.2,"carbs":4,"fiber":1.2,"type":"veg","category":"vegetable","price_per_kg":30},
+
+  {"name":"banana","calories":89,"protein":1.1,"fat":0.3,"carbs":23,"fiber":2.6,"type":"veg","category":"fruit","price_per_kg":50},
+  {"name":"apple","calories":52,"protein":0.3,"fat":0.2,"carbs":14,"fiber":2.4,"type":"veg","category":"fruit","price_per_kg":120},
+  {"name":"papaya","calories":43,"protein":0.5,"fat":0.3,"carbs":11,"fiber":1.7,"type":"veg","category":"fruit","price_per_kg":40},
+  {"name":"watermelon","calories":30,"protein":0.6,"fat":0.2,"carbs":8,"fiber":0.4,"type":"veg","category":"fruit","price_per_kg":25},
+  {"name":"guava","calories":68,"protein":2.6,"fat":1,"carbs":14,"fiber":5,"type":"veg","category":"fruit","price_per_kg":60}
+]

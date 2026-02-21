@@ -1,0 +1,6 @@
+{
+  "labrador": { "energy_modifier": 1.1 },
+  "german_shepherd": { "energy_modifier": 1.15 },
+  "pug": { "energy_modifier": 0.9 },
+  "indie": { "energy_modifier": 1.0 }
+}

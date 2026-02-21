@@ -1,0 +1,7 @@
+{
+  "chicken": ["chicken"],
+  "dairy": ["milk", "paneer", "cheese"],
+  "fish": ["fish"],
+  "egg": ["egg"],
+  "grains": ["rice", "wheat"]
+}
